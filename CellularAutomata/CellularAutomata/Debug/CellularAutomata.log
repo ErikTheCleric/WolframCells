@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\ErikH\source\repos\CellularAutomata\CellularAutomata\main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ErikH\source\repos\CellularAutomata\CellularAutomata\main.cpp(44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ErikH\source\repos\CellularAutomata\CellularAutomata\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ErikH\source\repos\CellularAutomata\CellularAutomata\main.cpp(173): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ErikH\source\repos\CellularAutomata\CellularAutomata\main.cpp(182): warning C4018: '<': signed/unsigned mismatch
+  CellularAutomata.vcxproj -> C:\Users\ErikH\source\repos\CellularAutomata\Debug\CellularAutomata.exe
